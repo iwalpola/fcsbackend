@@ -5,10 +5,10 @@
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-default">
-                <div class="panel-heading">Welcome to the Free Citizen Society's online portal</div>
+                <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    Click <a href="forum">here</a> to go to the forum
+                    You are logged in!
                 </div>
             </div>
         </div>

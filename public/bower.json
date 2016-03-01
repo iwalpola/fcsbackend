@@ -1,0 +1,22 @@
+{
+  "name": "Free Citizen Society Website",
+  "homepage": "https://github.com/iwalpola/freecitizensociety",
+  "authors": [
+    "Isuru Walpola <iwalpola@gmail.com>, Clinton Sam <clintonsam75@gmail.com>"
+  ],
+  "description": "The central website of the Free Citizen Society",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
